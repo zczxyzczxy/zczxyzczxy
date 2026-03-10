@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**zczxyzczxy/zczxyzczxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cyber-security analyst from the UK, currently preparing to study at university. I specialize in low-level programming and systems engineering, with a strong interest in firmware, operating systems, and networking.
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- C (primary)
+- Rust (lazy)
+- Python (scripting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+- Reverse engineering & exploit development
+- Kernel and driver programming
+- Network protocol analysis
+- Embedded systems and firmware security
+
